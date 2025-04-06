@@ -38,7 +38,10 @@ To run the script and generate an HTML report, use the following command:
 ```powershell
 .\akijinfo.ps1
 ```
+# Version Information
 
+## Current Version
+**v1.0.0**
 ## Notes
 
 - Ensure you have the required permissions to execute PowerShell scripts on your system.
