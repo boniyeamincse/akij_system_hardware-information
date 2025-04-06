@@ -1,0 +1,1 @@
+# akij_system_hardware-information
